@@ -1,4 +1,6 @@
-# EditionCrafter Codespace Template
+# EditionCrafter React Project Template
+
+This repository provides a simple example of using EditionCrafter in a React app. It can also be run using GitHub Code Spaces to try out EditionCrafter or preview an edition in progress.
 
 ## How it Works
 
@@ -11,7 +13,7 @@ This repository includes the EditionCrafter command line tool and an HTTP server
 
 ## Upgrading EditionCrafter
 
-This repository currently contains EditionCrafter **1.0.3**. If a newer version exists, you can upgrade by running the following command:
+This repository currently contains EditionCrafter **1.1.0**. If a newer version exists, you can upgrade by running the following command:
 
 ```
 npm install @cu-mkp/editioncrafter@latest
