@@ -12,8 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "@cu-mkp/editioncrafter": "^1.0.3",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "@cu-mkp/editioncrafter-cli": "^1.1.0-beta.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.3",
