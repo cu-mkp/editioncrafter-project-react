@@ -11,6 +11,11 @@ This repository includes the EditionCrafter command line tool and an HTTP server
 3. Open `config.json` and update the parameters for your project.
 4. Run `npm start` in the command line to launch a web server. A popup will appear on the bottom right of your screen with an "Open in Browser" button. Click that to get a live view of your project in a new tab.
 
+## Using the provided example editions
+
+In the examples folder.. TODO 
+
+
 ## Upgrading EditionCrafter
 
 This repository currently contains EditionCrafter **1.1.0**. If a newer version exists, you can upgrade by running the following command:
