@@ -7,7 +7,7 @@ This repository provides a simple example of using EditionCrafter in a React app
 This repository includes the EditionCrafter command line tool and an HTTP server to preview your project in the EditionCrafter frontend component.
 
 1. Run `editioncrafter` in the command line to generate your project files. Run `editioncrafter help` for more details of how to use that program.
-2. Put the project files in the `data` folder, alongside `data/config.json`.
+2. Put the project files in the `public` folder.
 3. Open `config.json` and update the parameters for your project.
 4. Run `npm start` in the command line to launch a web server. A popup will appear on the bottom right of your screen with an "Open in Browser" button. Click that to get a live view of your project in a new tab.
 
