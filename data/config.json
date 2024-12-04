@@ -1,4 +1,6 @@
 {
   "documentName": "My Document",
-  "transcriptionTypes": {}
+  "transcriptionTypes": {
+    "tl_p003r_preTEI": "Translation (EN)"
+  }
 }

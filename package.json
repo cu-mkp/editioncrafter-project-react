@@ -11,8 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cu-mkp/editioncrafter": "^1.0.3",
-    "@cu-mkp/editioncrafter-cli": "^1.1.0-beta.1",
+    "@cu-mkp/editioncrafter": "1.1.0-beta.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
