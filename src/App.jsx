@@ -5,7 +5,7 @@ import config from '../data/config.json'
 const configProps = {
   ...config,
   id: 'ec',
-  iiifManifest: '/data/fr640-with-markup/iiif/manifest.json'
+  iiifManifest: '/caryatidum-zones/iiif/manifest.json'
 }
 
 const App = () => {

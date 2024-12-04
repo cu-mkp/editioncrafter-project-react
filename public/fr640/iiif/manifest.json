@@ -1,0 +1,559 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "/fr640/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "/fr640/iiif/canvas/f004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "/fr640/iiif/canvas/f004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://raw.githubusercontent.com/cu-mkp/editioncrafter/refs/heads/dev/editioncrafter/static/images-example/img/f004.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5408,
+								"width": 3384
+							},
+							"target": "/fr640/iiif/canvas/f004"
+						}
+					]
+				}
+			],
+			"height": 5408,
+			"width": 3384,
+			"label": {
+				"none": [
+					"1r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "/fr640/iiif/canvas/f004/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f004/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/tei/text/f004.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f004"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f004/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/html/text/f004.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f004"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "/fr640/iiif/canvas/f005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "/fr640/iiif/canvas/f005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://raw.githubusercontent.com/cu-mkp/editioncrafter/refs/heads/dev/editioncrafter/static/images-example/img/f005.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5432,
+								"width": 3429
+							},
+							"target": "/fr640/iiif/canvas/f005"
+						}
+					]
+				}
+			],
+			"height": 5432,
+			"width": 3429,
+			"label": {
+				"none": [
+					"1v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "/fr640/iiif/canvas/f005/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f005/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/tei/text/f005.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f005"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f005/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/html/text/f005.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f005"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "/fr640/iiif/canvas/f006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "/fr640/iiif/canvas/f006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://raw.githubusercontent.com/cu-mkp/editioncrafter/refs/heads/dev/editioncrafter/static/images-example/img/f006.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5420,
+								"width": 3372
+							},
+							"target": "/fr640/iiif/canvas/f006"
+						}
+					]
+				}
+			],
+			"height": 5420,
+			"width": 3372,
+			"label": {
+				"none": [
+					"2r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "/fr640/iiif/canvas/f006/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f006/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/tei/text/f006.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f006"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f006/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/html/text/f006.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f006"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "/fr640/iiif/canvas/f007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "/fr640/iiif/canvas/f007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://raw.githubusercontent.com/cu-mkp/editioncrafter/refs/heads/dev/editioncrafter/static/images-example/img/f007.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5420,
+								"width": 3408
+							},
+							"target": "/fr640/iiif/canvas/f007"
+						}
+					]
+				}
+			],
+			"height": 5420,
+			"width": 3408,
+			"label": {
+				"none": [
+					"2v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "/fr640/iiif/canvas/f007/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f007/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/tei/text/f007.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f007"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f007/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/html/text/f007.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f007"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "/fr640/iiif/canvas/f008",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "/fr640/iiif/canvas/f008/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f008/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://raw.githubusercontent.com/cu-mkp/editioncrafter/refs/heads/dev/editioncrafter/static/images-example/img/f008.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5417,
+								"width": 3369
+							},
+							"target": "/fr640/iiif/canvas/f008"
+						}
+					]
+				}
+			],
+			"height": 5417,
+			"width": 3369,
+			"label": {
+				"none": [
+					"3r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "/fr640/iiif/canvas/f008/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f008/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/tei/text/f008.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f008"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f008/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/html/text/f008.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f008"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "/fr640/iiif/canvas/f009",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "/fr640/iiif/canvas/f009/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f009/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://raw.githubusercontent.com/cu-mkp/editioncrafter/refs/heads/dev/editioncrafter/static/images-example/img/f009.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5426,
+								"width": 3393
+							},
+							"target": "/fr640/iiif/canvas/f009"
+						}
+					]
+				}
+			],
+			"height": 5426,
+			"width": 3393,
+			"label": {
+				"none": [
+					"3v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "/fr640/iiif/canvas/f009/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f009/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/tei/text/f009.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f009"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f009/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/html/text/f009.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f009"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "/fr640/iiif/canvas/f010",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "/fr640/iiif/canvas/f010/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f010/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://raw.githubusercontent.com/cu-mkp/editioncrafter/refs/heads/dev/editioncrafter/static/images-example/img/f010.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5390,
+								"width": 3372
+							},
+							"target": "/fr640/iiif/canvas/f010"
+						}
+					]
+				}
+			],
+			"height": 5390,
+			"width": 3372,
+			"label": {
+				"none": [
+					"4r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "/fr640/iiif/canvas/f010/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f010/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/tei/text/f010.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f010"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f010/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/html/text/f010.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f010"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "/fr640/iiif/canvas/f011",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "/fr640/iiif/canvas/f011/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f011/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://raw.githubusercontent.com/cu-mkp/editioncrafter/refs/heads/dev/editioncrafter/static/images-example/img/f011.jpg",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 5390,
+								"width": 3402
+							},
+							"target": "/fr640/iiif/canvas/f011"
+						}
+					]
+				}
+			],
+			"height": 5390,
+			"width": 3402,
+			"label": {
+				"none": [
+					"4v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "/fr640/iiif/canvas/f011/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f011/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/tei/text/f011.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f011"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "/fr640/iiif/canvas/f011/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "/fr640/html/text/f011.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "/fr640/iiif/canvas/f011"
+						}
+					]
+				}
+			]
+		}
+	],
+	"label": {
+		"en": [
+			"fr640"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}
