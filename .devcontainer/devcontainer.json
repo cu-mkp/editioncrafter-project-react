@@ -4,7 +4,7 @@
     "cpus": 2
   },
   "waitFor": "onCreateCommand",
-  "postCreateCommand": "npm install -g @cu-mkp/editioncrafter-cli@1.1.0-beta.1",
+  "postCreateCommand": "npm install -g @cu-mkp/editioncrafter-cli@1.1.0-beta.3",
   "updateContentCommand": "npm install",
   "forwardPorts": [3000]
 }
