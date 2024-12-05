@@ -1,0 +1,9 @@
+{
+  "id": "ec",
+  "documentName": "Caryatidum",
+  "iiifManifest": "/caryatidum-zones/iiif/manifest.json",
+  "transcriptionTypes": {
+    "text-1": "Text 1",
+    "text-2": "Text 2"
+  }
+}

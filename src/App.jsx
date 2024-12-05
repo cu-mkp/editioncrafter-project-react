@@ -2,14 +2,8 @@ import React from "react";
 import EditionCrafter from "@cu-mkp/editioncrafter";
 import config from "../data/config.json";
 
-const configProps = {
-  ...config,
-  id: 'ec',
-  iiifManifest: '/caryatidum-zones/iiif/manifest.json'
-}
-
 const App = () => {
-  return <EditionCrafter {...configProps} />;
+  return <EditionCrafter {...config} />;
 };
 
 export default App;

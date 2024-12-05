@@ -1,8 +1,8 @@
 {
-    "documentName": "My Document",
-    "transcriptionTypes": {
-      "text-1": "Text 1",
-      "text-2": "Text 2"
-    }
+  "id": "ec",
+  "documentName": "Ms. Fr. 640",
+  "iiifManifest": "/fr640-with-markup/iiif/manifest.json",
+  "transcriptionTypes": {
+    "tl_p003r_preTEI": "Translation (EN)"
   }
-  
+}
