@@ -1,0 +1,25 @@
+---
+import { RecordList } from "@cu-mkp/editioncrafter";
+import Navbar from "../components/Navbar.astro";
+import config from "../../data/config.json";
+---
+
+<html>
+  <link rel="icon" type="image/x-icon" href="/ec_logo.svg" />
+  <title>Record List</title>
+  <body>
+    <Navbar />
+    {
+      config.dbUrl ? (
+        <RecordList client:only="react" />
+      ) : (
+        <p>No database configured.</p>
+      )
+    }
+  </body>
+</html>
+<style>
+  body {
+    margin: 0;
+  }
+</style>

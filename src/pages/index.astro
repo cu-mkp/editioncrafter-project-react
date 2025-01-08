@@ -1,0 +1,19 @@
+---
+import config from "../../data/config.json";
+import EditionCrafter from "@cu-mkp/editioncrafter";
+import Navbar from "../components/Navbar.astro";
+---
+
+<html>
+  <link rel="icon" type="image/x-icon" href="/ec_logo.svg" />
+  <title>EditionCrafter</title>
+  <body>
+    <Navbar />
+    <EditionCrafter {...config} client:only="react" />
+  </body>
+</html>
+<style>
+  body {
+    margin: 0;
+  }
+</style>
