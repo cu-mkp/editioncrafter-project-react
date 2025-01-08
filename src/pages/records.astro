@@ -11,7 +11,12 @@ import config from "../../data/config.json";
     <Navbar />
     {
       config.dbUrl ? (
-        <RecordList client:only="react" />
+        <RecordList
+          client:only="react"
+          dbUrl={config.dbUrl}
+          recordLabel={config.recordLabel}
+          viewerUrl={config.viewerUrl}
+        />
       ) : (
         <p>No database configured.</p>
       )

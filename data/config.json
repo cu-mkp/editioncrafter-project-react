@@ -1,8 +1,11 @@
 {
   "id": "ec",
   "documentName": "Ms. Fr. 640",
-  "iiifManifest": "/fr640-with-markup/iiif/manifest.json",
+  "iiifManifest": "/fr640-record-list/iiif/manifest.json",
   "transcriptionTypes": {
-    "tl_p003r_preTEI": "Translation (EN)"
-  }
+    "tl": "Translation (EN)"
+  },
+  "dbUrl": "/fr640-record-list/db.sqlite",
+  "recordLabel": "Entries",
+  "viewerUrl": "/"
 }
